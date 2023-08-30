@@ -531,7 +531,7 @@
     0px 3px 1px 0px rgba(0, 0, 0, 0.10);
 }
 
-.active:active{
+.active{
     transition: color 250ms var(--cubic);
     color: var(--detail-color);
     background-color: var(--primary-color);
